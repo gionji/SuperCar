@@ -1,0 +1,180 @@
+
+er@udooneo-supercar:~/SuperCar$ python test1.py > log.gio
+[obd.elm327] Failed to retrieve current protocol
+[obd.elm327] Adapter connected, but the ignition is off
+[obd.obd] Cannot load commands: No connection to car
+udooer@udooneo-supercar:~/SuperCar$ python test1.py > log.gio
+[obd.obd] '0102: DTC that triggered the freeze frame' is not supported
+[obd.obd] '0108: Short Term Fuel Trim - Bank 2' is not supported
+[obd.obd] '0109: Long Term Fuel Trim - Bank 2' is not supported
+[obd.obd] '010A: Fuel Pressure' is not supported
+[obd.obd] '0110: Air Flow Rate (MAF)' is not supported
+[obd.obd] '0112: Secondary Air Status' is not supported
+[obd.obd] '0116: O2: Bank 1 - Sensor 3 Voltage' is not supported
+[obd.obd] '0117: O2: Bank 1 - Sensor 4 Voltage' is not supported
+[obd.obd] '0118: O2: Bank 2 - Sensor 1 Voltage' is not supported
+[obd.obd] '0119: O2: Bank 2 - Sensor 2 Voltage' is not supported
+[obd.obd] '011A: O2: Bank 2 - Sensor 3 Voltage' is not supported
+[obd.obd] '011B: O2: Bank 2 - Sensor 4 Voltage' is not supported
+[obd.obd] '011D: O2 Sensors Present (alternate)' is not supported
+[obd.obd] '011E: Auxiliary input status (power take off)' is not supported
+[obd.obd] '011F: Engine Run Time' is not supported
+[obd.obd] '0122: Fuel Rail Pressure (relative to vacuum)' is not supported
+[obd.obd] '0123: Fuel Rail Pressure (direct inject)' is not supported
+[obd.obd] '0124: 02 Sensor 1 WR Lambda Voltage' is not supported
+[obd.obd] '0125: 02 Sensor 2 WR Lambda Voltage' is not supported
+[obd.obd] '0126: 02 Sensor 3 WR Lambda Voltage' is not supported
+[obd.obd] '0127: 02 Sensor 4 WR Lambda Voltage' is not supported
+[obd.obd] '0128: 02 Sensor 5 WR Lambda Voltage' is not supported
+[obd.obd] '0129: 02 Sensor 6 WR Lambda Voltage' is not supported
+[obd.obd] '012A: 02 Sensor 7 WR Lambda Voltage' is not supported
+[obd.obd] '012B: 02 Sensor 8 WR Lambda Voltage' is not supported
+[obd.obd] '012C: Commanded EGR' is not supported
+[obd.obd] '012D: EGR Error' is not supported
+[obd.obd] '012E: Commanded Evaporative Purge' is not supported
+[obd.obd] '012F: Fuel Level Input' is not supported
+[obd.obd] '0130: Number of warm-ups since codes cleared' is not supported
+[obd.obd] '0131: Distance traveled since codes cleared' is not supported
+[obd.obd] '0132: Evaporative system vapor pressure' is not supported
+[obd.obd] '0133: Barometric Pressure' is not supported
+[obd.obd] '0134: 02 Sensor 1 WR Lambda Current' is not supported
+[obd.obd] '0135: 02 Sensor 2 WR Lambda Current' is not supported
+[obd.obd] '0136: 02 Sensor 3 WR Lambda Current' is not supported
+[obd.obd] '0137: 02 Sensor 4 WR Lambda Current' is not supported
+[obd.obd] '0138: 02 Sensor 5 WR Lambda Current' is not supported
+[obd.obd] '0139: 02 Sensor 6 WR Lambda Current' is not supported
+[obd.obd] '013A: 02 Sensor 7 WR Lambda Current' is not supported
+[obd.obd] '013B: 02 Sensor 8 WR Lambda Current' is not supported
+[obd.obd] '013C: Catalyst Temperature: Bank 1 - Sensor 1' is not supported
+[obd.obd] '013D: Catalyst Temperature: Bank 2 - Sensor 1' is not supported
+[obd.obd] '013E: Catalyst Temperature: Bank 1 - Sensor 2' is not supported
+[obd.obd] '013F: Catalyst Temperature: Bank 2 - Sensor 2' is not supported
+[obd.obd] '0140: Supported PIDs [41-60]' is not supported
+[obd.obd] '0141: Monitor status this drive cycle' is not supported
+[obd.obd] '0142: Control module voltage' is not supported
+[obd.obd] '0143: Absolute load value' is not supported
+[obd.obd] '0144: Commanded equivalence ratio' is not supported
+[obd.obd] '0145: Relative throttle position' is not supported
+[obd.obd] '0146: Ambient air temperature' is not supported
+[obd.obd] '0147: Absolute throttle position B' is not supported
+[obd.obd] '0148: Absolute throttle position C' is not supported
+[obd.obd] '0149: Accelerator pedal position D' is not supported
+[obd.obd] '014A: Accelerator pedal position E' is not supported
+[obd.obd] '014B: Accelerator pedal position F' is not supported
+[obd.obd] '014C: Commanded throttle actuator' is not supported
+[obd.obd] '014D: Time run with MIL on' is not supported
+[obd.obd] '014E: Time since trouble codes cleared' is not supported
+[obd.obd] '014F: Various Max values' is not supported
+[obd.obd] '0150: Maximum value for mass air flow sensor' is not supported
+[obd.obd] '0151: Fuel Type' is not supported
+[obd.obd] '0152: Ethanol Fuel Percent' is not supported
+[obd.obd] '0153: Absolute Evap system Vapor Pressure' is not supported
+[obd.obd] '0154: Evap system vapor pressure' is not supported
+[obd.obd] '0155: Short term secondary O2 trim - Bank 1' is not supported
+[obd.obd] '0156: Long term secondary O2 trim - Bank 1' is not supported
+[obd.obd] '0157: Short term secondary O2 trim - Bank 2' is not supported
+[obd.obd] '0158: Long term secondary O2 trim - Bank 2' is not supported
+[obd.obd] '0159: Fuel rail pressure (absolute)' is not supported
+[obd.obd] '015A: Relative accelerator pedal position' is not supported
+[obd.obd] '015B: Hybrid battery pack remaining life' is not supported
+[obd.obd] '015C: Engine oil temperature' is not supported
+[obd.obd] '015D: Fuel injection timing' is not supported
+udooer@udooneo-supercar:~/SuperCar$ cat log.gio 
+['/dev/rfcomm0']
+Car Connected
+10111110001111101011100000010001
+<obd.OBDResponse.Status instance at 0x7645d878>
+None
+('Closed loop, using oxygen sensor feedback to determine fuel mix', '')
+25.0980392157 percent
+76 degC
+4.6875 percent
+-1.5625 percent
+None
+None
+None
+25 kilopascal
+733.0 revolutions_per_minute
+0.0 kph
+8.0 degree
+22 degC
+None
+9.01960784314 percent
+None
+((), (False, False, False, False), (False, False, True, True))
+0.8 volt
+0.66 volt
+None
+None
+None
+None
+None
+None
+EOBD (Europe)
+None
+None
+None
+10000000000000000000000000000000
+0.0 kilometer
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+udooer@udooneo-supercar:~/SuperCar$ 
+

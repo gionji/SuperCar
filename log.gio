@@ -1,0 +1,96 @@
+['/dev/rfcomm0']
+Car Connected
+10111110001111101011100000010001
+<obd.OBDResponse.Status instance at 0x7645d878>
+None
+('Closed loop, using oxygen sensor feedback to determine fuel mix', '')
+25.0980392157 percent
+76 degC
+4.6875 percent
+-1.5625 percent
+None
+None
+None
+25 kilopascal
+733.0 revolutions_per_minute
+0.0 kph
+8.0 degree
+22 degC
+None
+9.01960784314 percent
+None
+((), (False, False, False, False), (False, False, True, True))
+0.8 volt
+0.66 volt
+None
+None
+None
+None
+None
+None
+EOBD (Europe)
+None
+None
+None
+10000000000000000000000000000000
+0.0 kilometer
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
